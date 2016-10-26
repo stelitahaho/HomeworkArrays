@@ -15,7 +15,7 @@ public class SumEvenNumbers {
 				}
 			}
 			for(int i=0 ; i < Array.length ; i++){
-				if(Array[i]%2!=0){
+				if(Array[i]%2==0){
 					Sum+=Array[i];
 				}
 			}
